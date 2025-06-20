@@ -1,2 +1,2 @@
 # gitdemo
-it is repo to leanr git
+it is repo to learn git and git hub;
